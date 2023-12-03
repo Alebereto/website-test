@@ -1,0 +1,18 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+}
+
+.large-header,
+.lesser-header,
+.imag,
+.para {
+    text-align: center;
+}
+
+.large-header {
+    color: red;
+}
+
+.list {
+    font-size: 22px;
+}
